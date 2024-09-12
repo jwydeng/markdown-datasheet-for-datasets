@@ -5,7 +5,7 @@ Author: Jessie Deng
 Organization: *Your Organization Here*
 
 
-## Motivation
+## Motivation*
 
 *The questions in this section are primarily intended to encourage dataset creators to clearly articulate their reasons for creating the dataset and to promote transparency about funding interests.*
 
@@ -26,7 +26,7 @@ Organization: *Your Organization Here*
 	*Your Answer Here*
 
 
-## Composition
+## Composition*
 
 *Dataset creators should read through the questions in this section prior to any data collection and then provide answers once collection is complete. Most of these questions are intended to provide dataset consumers with the information they need to make informed decisions about using the dataset for specific tasks. The answers to some of these questions reveal information about compliance with the EU’s General Data Protection Regulation (GDPR) or comparable regulations in other jurisdictions.*
 
