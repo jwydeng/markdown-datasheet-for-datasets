@@ -1,8 +1,8 @@
-# Datasheet: *Your Dataset Name Here*
+# Datasheet: Microsoft COCO: Common Objects in Context
 
 Author: Jessie Deng
 
-Organization: *Your Organization Here*
+Organization: INFO 202
 
 
 ## Motivation*
@@ -11,7 +11,7 @@ Organization: *Your Organization Here*
 
 1. **For what purpose was the dataset created?** Was there a specific task in mind? Was there a specific gap that needed to be filled? Please provide a description.
 
-	*Your Answer Here*
+This dataset was created to improve object recognition by placing the question of object recognition in the context of the broader question of scene understanding. This is to gain further knowledge about object recognition because one of the primary goals of computer vision is the understanding of visual scenes.
 
 2. **Who created this dataset (e.g. which team, research group) and on behalf of which entity (e.g. company, institution, organization)**?
 
