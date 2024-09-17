@@ -11,11 +11,11 @@ Organization: INFO 202
 
 1. **For what purpose was the dataset created?** Was there a specific task in mind? Was there a specific gap that needed to be filled? Please provide a description.
 
-This dataset was created to improve object recognition by placing the question of object recognition in the context of the broader question of scene understanding. This is to gain further knowledge about object recognition because one of the primary goals of computer vision is the understanding of visual scenes.
+This dataset was created with the aim to improve object recognition by placing the question of object recognition in the context of the broader question of scene understanding. This is to gain further knowledge about object recognition and how it can be improved because one of the primary goals of computer vision is the understanding of visual scenes.
 
 2. **Who created this dataset (e.g. which team, research group) and on behalf of which entity (e.g. company, institution, organization)**?
 
-	*Your Answer Here*
+The authors of this dataset are from various universities and companies specializing in technology and computer science research. These universities and companies include: Cornell NYC Tech, Cornell Computer Science Department, Toyota Technological Institute at Chicago, Facebook AI Research, Microsoft Research, Brown University, California Institute of Technology, and UC Irvine.
 
 3. **What support was needed to make this dataset?** (e.g. who funded the creation of the dataset? If there is an associated grant, provide the name of the grantor and the grant name and number, or if it was supported by a company or government agency, give those details.)
 
