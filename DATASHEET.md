@@ -19,7 +19,7 @@ The authors of this dataset are from various universities and companies speciali
 
 3. **What support was needed to make this dataset?** (e.g. who funded the creation of the dataset? If there is an associated grant, provide the name of the grantor and the grant name and number, or if it was supported by a company or government agency, give those details.)
 
-	*Your Answer Here*
+This dataset was supported by ONR MURI Grant N00014-10-1-0933, and the portion for crowd worker tasks was funded by Microsoft. P.P. and D.R.
 
 4. **Any other comments?**
 
